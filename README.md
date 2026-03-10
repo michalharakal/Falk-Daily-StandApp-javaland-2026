@@ -18,6 +18,8 @@ Das Ziel `verify` kompiliert den Code und führt die Beispieltests aus.
 
 1. Git-Historie über JGit laden und in ein Domänenmodell überführen.
 2. LLM-Inferenz (z. B. SKaiNET oder JLama/OLama) als Modul ergänzen.
-3. MCP-Server anbinden, damit LLMs Git-Daten als Tool Call beziehen können.
+3. weitere Ideen: Function Call oder MCP-Server anbinden, damit das LLM die Git-History selbständig abrufen kann
+
+Weitere Details sind in der Dokumentation des [DailyStandApp-Repos](http://localhost:63342/Daily-StandAPP-docs/docs/_public/daily-standapp/javaland-2026/00-index.htmll)
 
 Viel Erfolg und viel Spaß beim Workshop!
